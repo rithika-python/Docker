@@ -81,12 +81,18 @@ The objective of this project was to set up TensorFlow using Docker, a container
 
 ---
 
-### **5. Conclusion**
+### **5. Video**
+
+https://github.com/user-attachments/assets/d1c44288-c4b6-4dfc-9df7-d3908da1cc5b
+
+---
+
+### **6. Conclusion**
 Using Docker to install and run TensorFlow simplifies environment management and ensures consistency across systems. With Docker, you can run TensorFlow in isolated containers, test code directly, and leverage powerful tools like Jupyter Notebooks for experimentation. This approach eliminates dependency conflicts and enables rapid deployment, making it a robust choice for machine learning projects.
 
 ---
 
-### **6. Future Improvements**
+### **7. Future Improvements**
 - Explore advanced TensorFlow features in GPU-accelerated Docker containers.
 - Automate container deployment using Docker Compose for complex workflows.
 - Integrate TensorFlow with other tools like Kubernetes for scalable deployments.
