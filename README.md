@@ -77,7 +77,7 @@ The objective of this project was to set up TensorFlow using Docker, a container
   ```
   *This starts a Jupyter Notebook server, accessible via your browser.*
 
-- Open the URL displayed in the terminal (e.g., `http://127.0.0.1:8888/?token=...`) to access the Jupyter environment.
+- Open the URL displayed in the terminal (i.e., http://127.0.0.1:8888/tree/tensorflow-tutorials) to access the Jupyter environment.
 
 ---
 
